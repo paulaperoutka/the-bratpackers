@@ -1,6 +1,6 @@
 import React from "react";
 
-const Travel = (props) => (
+const Hungry = (props) => (
   <div />
 )
 
