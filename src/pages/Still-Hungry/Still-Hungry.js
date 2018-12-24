@@ -4,4 +4,4 @@ const Hungry = (props) => (
   <div />
 )
 
-export default Still;
+export default Hungry;
